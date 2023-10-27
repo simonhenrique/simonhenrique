@@ -49,7 +49,7 @@ Front-End Developer
 
 <br/>
 
-## 💫 My🌟BEST🌟 SKILLS
+## My Best Skills
 
 <p align="center">
 <table align="center">
