@@ -113,7 +113,7 @@ Here are some ideas to get you started:
                 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
                 <br>C#
             </td>
-            <td align="center" width="90">
+            <td align="center" width="100">
                 <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
                 <br>.Net
             </td>
