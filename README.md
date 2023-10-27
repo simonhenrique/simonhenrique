@@ -64,7 +64,7 @@ Here are some ideas to get you started:
                 <br>CSS
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=js" awidth="45" height="45" alt="js" />
                 <br>JS
             </td>
             <td align="center" width="100">
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
                 <br>Bootstrap
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
                 <br>React
             </td>
             <td align="center" width="100">
@@ -98,11 +98,11 @@ Here are some ideas to get you started:
         </tr>
         <tr>
             <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+                <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress" />
                 <br>WordPress
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
                 <br>MySQL
             </td>
             <td align="center" width="100">
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
                 <br>SQLite
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
                 <br>C#
             </td>
             <td align="center" width="100">
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
                 <br>.Net
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack" />
                 <br>Webpack
             </td>
             <td align="center" width="100">
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
                 <br>Git
             </td>
             <td align="center" width="100">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+                <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Github" />
                 <br>Github
             </td>
         </tr>
