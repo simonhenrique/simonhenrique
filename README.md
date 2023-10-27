@@ -64,7 +64,7 @@ Here are some ideas to get you started:
                 <br>CSS
             </td>
             <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JS" />
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
                 <br>JS
             </td>
             <td align="center" width="100">
@@ -106,10 +106,6 @@ Here are some ideas to get you started:
                 <br>MySQL
             </td>
             <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-                <br>PostgreSQL
-            </td>
-            <td align="center" width="100">
                 <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
                 <br>SQLite
             </td>
@@ -122,7 +118,7 @@ Here are some ideas to get you started:
                 <br>.Net
             </td>
             <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack" />
+                <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
                 <br>Webpack
             </td>
             <td align="center" width="100">
@@ -130,22 +126,16 @@ Here are some ideas to get you started:
                 <br>Gulp
             </td>
             <td align="center" width="100">
+                <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
+                <br>Azure
+           </td>
+            <td align="center" width="100">
                 <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
                 <br>Git
             </td>
             <td align="center" width="100">
                 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
                 <br>Github
-            </td>
-        </tr>
-        <tr>
-           <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
-                <br>Azure
-           </td>
-           <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-                <br>Figma
             </td>
         </tr>
         <!---------------------------------------- Comentario ----------------------------------------------
@@ -315,6 +305,10 @@ Here are some ideas to get you started:
             <td align="center" width="90">
                 <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
                 <br>Express
+            </td>
+            <td align="center" width="100">
+                <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+                <br>PostgreSQL
             </td>
         </tr>
         --------------------------------------------------------------------------------------------------->
