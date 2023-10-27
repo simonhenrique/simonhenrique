@@ -48,7 +48,7 @@ Front-End Developer
 </p>
 
 <br/>
-
+<!--
 ## My Best Skills
 
 <p align="center">
@@ -299,7 +299,7 @@ Front-End Developer
   </tr> 
 </table>
 </p>
-
+-->
 <br/>
 
 ## Contact Me
