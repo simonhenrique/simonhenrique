@@ -86,10 +86,6 @@ Here are some ideas to get you started:
                 <br>MySQL
             </td>
             <td align="center" width="150">
-                <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-                <br>SQLite
-            </td>
-            <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
                 <br>Azure
             </td>
@@ -107,6 +103,10 @@ Here are some ideas to get you started:
             </td>
         </tr>
         <!---------------------------------------- Em aprendizado ----------------------------------------------
+         <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+            <br>SQLite
+        </td>
         <td align="center" width="100">
             <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack" />
             <br>Webpack
