@@ -75,23 +75,15 @@ Here are some ideas to get you started:
                 <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
                 <br>C#
             </td>
+        </tr>
+        <tr>
             <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
                 <br>.Net
             </td>
-        </tr>
-        <tr>
             <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
                 <br>MySQL
-            </td>
-            <td align="center" width="150">
-                <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
-                <br>Azure
-            </td>
-            <td align="center" width="150">
-                <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress" />
-                <br>WordPress
             </td>
             <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
@@ -106,6 +98,14 @@ Here are some ideas to get you started:
          <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
             <br>SQLite
+        </td>
+         <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
+            <br>Azure
+        </td>
+        <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress" />
+            <br>WordPress
         </td>
         <td align="center" width="100">
             <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack" />
