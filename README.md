@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## My Best Skills
+## My Soft Skills
 
 <p align="center">
     <table align="center">
