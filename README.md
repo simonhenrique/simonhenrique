@@ -72,6 +72,10 @@ Here are some ideas to get you started:
                 <br>Bootstrap
             </td>
             <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="ReactNative" />
+                <br>ReactNative
+            </td>
+            <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
                 <br>C#
             </td>
@@ -80,6 +84,10 @@ Here are some ideas to get you started:
             <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
                 <br>.Net
+            </td>
+            <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+                <br>Firebase
             </td>
             <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
