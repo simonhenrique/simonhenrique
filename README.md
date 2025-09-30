@@ -76,6 +76,10 @@ Here are some ideas to get you started:
                 <br>ReactNative
             </td>
             <td align="center" width="150">
+                <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="150">
                 <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
                 <br>C#
             </td>
